@@ -2,6 +2,8 @@
 
 Arquivo Jupyter Notebook feito para o Desafio 2 da Maratona Behind The Code 2020 - Realizado pela IBM
 
+A resolução do desafio se encontra em 'Solution.ipynb'
+
 # Desafio 02 | UNINASSAU
 
 - [1. Sobre a UNINASSAU](#1-sobre-a-uninassau)
